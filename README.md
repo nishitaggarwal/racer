@@ -1,2 +1,2 @@
-# racer
-please don't go out of the screen
+# p5.play-boilerplate
+Boiler plate for p5.play
